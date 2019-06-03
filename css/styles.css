@@ -1,0 +1,23 @@
+#logo-navbar {
+    width: 120px;
+}
+
+.jumbotron {
+    text-align: center;
+    padding-top: 275px;
+}
+
+.jumbotron-text {
+    color: #0F3EB5;
+}
+
+.btn:hover{
+    background-color: white;
+    border: 2px solid #0F3EB5;
+    color: #0F3EB5;
+}
+
+#conocenosButton {
+    margin-top: 20px;
+    margin-bottom: 180px;
+}
