@@ -393,9 +393,9 @@ img::-moz-selection {
   margin-left: 0;
   text-align: center;
   color: white;
-  border: 7px solid #e9ecef;
+  border: 7px solid #0F3EB5;
   border-radius: 100%;
-  background-color: #fed136;
+  background-color:  #0F3EB5;
 }
 
 .timeline > li .timeline-image h4 {
@@ -538,7 +538,7 @@ img::-moz-selection {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #0F3EB5;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -630,9 +630,9 @@ ul.social-buttons li a {
   color: white;
   border-radius: 100%;
   outline: none;
-  background-color: #212529;
+  background-color: lightgray;
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-  background-color: #fed136;
+  background-color: #0F3EB5;
 }

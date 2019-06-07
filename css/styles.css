@@ -22,3 +22,15 @@
     margin-top: 20px;
     margin-bottom: 180px;
 }
+
+.portfolio-img {
+    max-height: 100px;
+}
+
+.text-danger2 {
+    color: white;
+}
+
+#sendMessageButton {
+    border: 2px solid white;
+}
