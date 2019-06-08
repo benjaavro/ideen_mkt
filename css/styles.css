@@ -10,6 +10,14 @@
 
 .jumbotron-text {
     color: #0F3EB5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.jumbotron-text2 {
+    color: #0F3EB5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 .btn:hover{
@@ -33,4 +41,8 @@
 
 #sendMessageButton {
     border: 2px solid white;
+}
+
+#services, #portfolio, #about, #contact {
+    padding-top: 70px;
 }
