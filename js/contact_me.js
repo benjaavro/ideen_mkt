@@ -4,6 +4,7 @@ $(function() {
     preventSubmit: true,
     submitError: function($form, event, errors) {
       // additional error messages or events
+        alert("El mensaje no ha podido ser enviado, favor de intentarlo más tarde.");
     },
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
