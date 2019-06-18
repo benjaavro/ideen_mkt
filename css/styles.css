@@ -54,3 +54,21 @@
 .somos {
     font-size: 1em;
 }
+
+.barra-top {
+    height: 21px;
+    width: 300px;
+    position: absolute;
+    margin-top: -130px;
+    margin-left: -50px;
+    background-color: #7F7D75
+}
+
+.barra-bottom {
+    height: 22.5px;
+    width: 400px;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 840px;
+    background-color: #7F7D75;
+}
