@@ -32,7 +32,11 @@
 }
 
 .portfolio-img {
-    max-height: 100px;
+    max-height: 500px;
+}
+
+.modal-content {
+    background-color: #f0f0f0;
 }
 
 .text-danger2 {
@@ -57,7 +61,7 @@
 
 .barra-top {
     height: 21px;
-    width: 300px;
+    width: 0px;
     position: absolute;
     margin-top: -130px;
     margin-left: -50px;
